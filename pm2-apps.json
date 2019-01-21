@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "reactexpress",
+      "script": "./server.js"
+    },
+    {
+      "name": "client",
+      "script": "client/src/index.js"
+
+    }
+  ]
+}
